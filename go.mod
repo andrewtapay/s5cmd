@@ -1,4 +1,4 @@
-module github.com/andrewtapay/s5cmd/v0
+module github.com/andrewtapay/s5cmd
 
 go 1.20
 
