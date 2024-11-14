@@ -1,4 +1,4 @@
-module github.com/peak/s5cmd/v0
+module github.com/andrewtapay/s5cmd/v0
 
 go 1.20
 
